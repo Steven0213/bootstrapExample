@@ -1,0 +1,14 @@
+body {
+padding-top: 60px;
+ }
+
+ .messageBody {
+ 		word-wrap: break-word;
+ 		-webkit-nbsp-mode: space;
+ 		-webkit-line-break: after-white-space;
+ 		height: 100%;
+ 		background-color: yellow;
+ 		min-height: 600px;
+         margin-right: 5px;
+ 	    margin-left: 5px;
+ 		}
